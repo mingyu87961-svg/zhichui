@@ -25,6 +25,10 @@
 
 ![知炊桌面推荐界面](docs/screenshots/recommendations.jpg)
 
+烹饪教程：选定菜谱后查看食材用量，跟随分步说明操作，并使用页面内计时器。
+
+![知炊番茄鸡蛋盖饭烹饪教程与步骤计时界面](docs/screenshots/cooking.jpg)
+
 手机端：食材、时间、厨具和偏好依次排列。
 
 <img src="docs/screenshots/mobile.jpg" width="320" alt="知炊手机界面" />
